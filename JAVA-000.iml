@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Week_03/src/threadWork" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week_04/src/JAVA" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week_04/src/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Week_05/src/JAVA" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
